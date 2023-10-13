@@ -21,4 +21,4 @@
 
 - :zap: In my free time, I solve problems on Leetcode.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/r%D0%BEbiya-rakhmatova-663456198/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-rrob1ya-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/r%D0%BEbiya-rakhmatova-663456198/)

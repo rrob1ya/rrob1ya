@@ -12,7 +12,7 @@
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="200" height="300"/>
+  <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="200" height="200"/>
 </div>
 
 - :telescope: I’m working as a Backend Developer and contributing to frontend and backend for building web applications.
